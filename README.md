@@ -10,4 +10,4 @@
 
 ## Demostracion
 
-[![Ver video](https://img.shields.io/badge/Ver-Video-ff0000?style=for-the-badge)](https://github.com/jGekko/el-show-debe-continuar/blob/main/media/demoSMGO.mp4)
+[![Demo](https://img.youtube.com/vi/GfsxmDFtMzg/0.jpg)](https://youtu.be/GfsxmDFtMzg)
