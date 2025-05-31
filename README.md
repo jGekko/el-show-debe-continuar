@@ -10,5 +10,6 @@
 
 ## Demostracion
 
-[Demo](./media/demo.mp4)
-
+<video width="640" height="360" controls>
+  <source src="media/video.mp4" type="video/mp4">
+</video>
