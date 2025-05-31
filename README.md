@@ -10,6 +10,4 @@
 
 ## Demostracion
 
-<video width="640" height="360" controls>
-  <source src="media/video.mp4" type="video/mp4">
-</video>
+[![Ver video](https://img.shields.io/badge/Ver-Video-ff0000?style=for-the-badge)](https://github.com/tu-usuario/tu-repo/raw/main/video.mp4?raw=true)
