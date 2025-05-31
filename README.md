@@ -10,4 +10,4 @@
 
 ## Demostracion
 
-[![Ver video](https://img.shields.io/badge/Ver-Video-ff0000?style=for-the-badge)](https://github.com/tu-usuario/tu-repo/raw/main/video.mp4?raw=true)
+[![Ver video](https://img.shields.io/badge/Ver-Video-ff0000?style=for-the-badge)]([https://github.com/tu-usuario/tu-repo/raw/main/video.mp4?raw=true](https://github.com/jGekko/el-show-debe-continuar/blob/main/media/demoSMGO.mp4))
